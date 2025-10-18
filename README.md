@@ -37,13 +37,14 @@
 - [Анимация и Эффекты](./Docs/Theory/Components/Animation.md) 🎭  
 - [Звук и Свет](./Docs/Theory/Components/AudioLight.md) 🔊  
 - [Полный Список Компонентов для GameObject](./Docs/Theory/Components/AllComponents.md) 🎯  
-- [Полный Список GameObjects и Примитивов](./Docs/Theory/Components/AllGameObjects.md) 📦
-- [Продвинутые Фишки GameObjects](./Docs/Theory/Components/ProTipsGameObjects.md) 🏗️
+- [Полный Список GameObjects и Примитивов](./Docs/Theory/Components/AllGameObjects.md) 📦  
+- [Продвинутые Фишки GameObjects](./Docs/Theory/Components/ProTipsGameObjects.md) 🏗️  
 
 ### **Часть 4: Скрипты — Магия C#** 💻  
 - [Основы C# и MonoBehaviour](./Docs/Scripts/Basics.md) 📜  
 - [Input, События, Корутины](./Docs/Scripts/Events.md) ⚡  
 - [Продвинутые Техники](./Docs/Scripts/Advanced.md) 📦  
+- [Полный Гайд по Скриптам с Нуля для Начинающих](./Docs/Scripts/FullScriptGuide.md) 🌟  
 
 ### **Часть 5: Дополнительно — Бонусные Тайны** 🌐  
 - [Сцены, Префабы, Ассеты](./Docs/Additional/ScenesPrefabs.md) 🧱  
@@ -52,6 +53,9 @@
 - [Сообщество и Ресурсы](./Docs/Additional/Community.md) 👥  
 - [New Input System — Современный Ввод](./Docs/Additional/NewInputSystem.md) 🎮  
 - [Шейдеры и Материалы — Визуалы](./Docs/Additional/ShadersMaterials.md) 🌈  
+
+### **Часть 6: Полный Курс по C# в Unity** 📚  
+- [Полный Курс по C# в Unity для Новичков](./Docs/CS_Unity/CS_Unity.md) 🌟  
 
 **Конец Оглавления!** ⭐  
 Форкни, добавь PR, пиши issues. Автор: [DGGelik](https://github.com/DGGelik). Дата: 18 октября 2025. *Стреляй кодом — и арена твоя!*
